@@ -1,3 +1,1 @@
-conflict 234544444
-new line
-fetch line
+new-feat-2
